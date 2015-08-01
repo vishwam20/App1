@@ -1,0 +1,11 @@
+Mission Statement:
+- Build a Global App to serve users requirement of finding a qualified practitioner of dharma kratu.
+
+Story 1:
+- Build a Register Page for practitioner with the following fields.
+        1. Name (Text Box)   
+        2. Mobile (Text Box) 
+        3. DOB   DD/MM/YYYY   (Date Field)
+        4. Location of Residence  (Text Box /Drop down)
+        5. Preferred  Cities    (MultiSelect)
+        6. Experience (Dropdown with numbers 1-60)
